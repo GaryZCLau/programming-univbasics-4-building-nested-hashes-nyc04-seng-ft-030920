@@ -20,7 +20,7 @@ def monopoly_with_third_tier
   # you built in the previous method. Run the tests. They will fail, but
   # they'll guide you in how to modify what you just did to have more
   # complexity.
-	{:railroads => {:key => ""}
+	{:railroads =>
 		{:rent_in_dollars => {:names => "", :key2 => "", :key3 => "", :key4 => ""}
 
 	}
